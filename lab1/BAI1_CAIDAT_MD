@@ -1,0 +1,22 @@
+PS E:\NMLT_25_PS50539_DINHPHONG> echo "# NMLT_25_PS50539_DINHPHONG" >> README.md
+>> git init
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/DinhPhong089/NMLT_25_PS50539_DINHPHONG.git
+>> git push -u origin main
+Reinitialized existing Git repository in E:/NMLT_25_PS50539_DINHPHONG/.git/
+[main b980691] first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+info: please complete authentication in your browser...
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 518 bytes | 259.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/DinhPhong089/NMLT_25_PS50539_DINHPHONG.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS E:\NMLT_25_PS50539_DINHPHONG> 
