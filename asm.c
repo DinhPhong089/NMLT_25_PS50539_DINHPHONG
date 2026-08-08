@@ -247,7 +247,7 @@ int main() {
                 break;
 
             default:
-                printf("Lua chon khong hop le!\n");
+                
         }
 
     } while (luaChon != 0);
